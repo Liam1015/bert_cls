@@ -133,5 +133,3 @@ simple_tensorflow_serving --model_base_path="./api"
 - [ ] 接入Docker
 - [ ] 微信端交互代码
 
-
-
